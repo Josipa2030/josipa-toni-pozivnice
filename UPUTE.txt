@@ -1,0 +1,18 @@
+JOSIPA & TONI — FINALNA POZIVNICA
+
+Tvoj e-mail za RSVP: radmilojosipa1998@gmail.com
+GitHub username: Josipa2030
+Repozitorij: josipa-toni-vjencanje
+Planirana adresa: https://josipa2030.github.io/josipa-toni-vjencanje/
+
+UPLOAD:
+1. Raspakiraj ZIP.
+2. U GitHubu otvori repository josipa-toni-vjencanje.
+3. Add file → Upload files.
+4. Uploadaj SVE datoteke iz ove mape: index.html, styles.css, script.js (ako postoji), fotografija.jpg, hvala.html.
+5. Klikni Commit changes.
+6. Settings → Pages → Deploy from a branch → main → / (root) → Save.
+7. Pričekaj nekoliko minuta i otvori planiranu adresu.
+
+RSVP:
+Obrazac je podešen da šalje odgovore na radmilojosipa1998@gmail.com. Kod prvog slanja FormSubmit može poslati aktivacijski e-mail na tu adresu. Potvrdi ga; nakon toga prijave će stizati na taj e-mail.
